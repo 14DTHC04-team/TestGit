@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestGit.iml" filepath="$PROJECT_DIR$/TestGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testdemogit.iml" filepath="$PROJECT_DIR$/testdemogit.iml" />
+      <module fileurl="file://E:\AndroidProject\testGithub\TestGit\app\app.iml" filepath="E:\AndroidProject\testGithub\TestGit\app\app.iml" />
+      <module fileurl="file://E:\AndroidProject\testGithub\TestGit\testdemogit.iml" filepath="E:\AndroidProject\testGithub\TestGit\testdemogit.iml" />
     </modules>
   </component>
 </project>
